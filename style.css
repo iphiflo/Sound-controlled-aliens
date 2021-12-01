@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Estonia', cursive;
+    background-color: lightpink;
+}
+
+.header_div
+{
+    background-color: whitesmoke;
+    color: mediumvioletred;
+}
+
+.header_div p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:palevioletred;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.main_div button{
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    background-color: mistyrose;
+    bottom: 0;
+    border-color: palevioletred;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px slategray;
+    border-width: 6px;
+}
+
